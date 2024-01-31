@@ -1,12 +1,12 @@
-package hierarchical;
+package com.chai.hierarchical;
 
-public class Karnataka extends RBI{
+public class Hdfc extends RBI{
 	
 	private String branchname;
 
-	public Karnataka(String bankId, String countryname,String branchname) {
+	public Hdfc(String bankId, String countryname,String branchname) {
 		super(bankId, countryname);
-		this.branchname= branchname;
+		this.branchname=branchname;
 		// TODO Auto-generated constructor stub
 	}
 
@@ -20,7 +20,7 @@ public class Karnataka extends RBI{
 
 	@Override
 	public String toString() {
-		return "Karnataka  branchname=" + branchname  + super.toString() + "";
+		return "Hdfc branchname=" + branchname  + super.toString() + "";
 	}
 	
 

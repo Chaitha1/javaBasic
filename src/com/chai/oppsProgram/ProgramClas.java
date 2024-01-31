@@ -1,4 +1,4 @@
-package oppsProgram;
+package com.chai.oppsProgram;
 
 public class ProgramClas {
 

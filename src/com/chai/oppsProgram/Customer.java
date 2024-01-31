@@ -1,4 +1,4 @@
-package oppsProgram;
+package com.chai.oppsProgram;
 // constructor
 public class Customer {
 	

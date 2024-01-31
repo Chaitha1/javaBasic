@@ -1,4 +1,4 @@
-package hierarchical;
+package com.chai.hierarchical;
 
 public class RBI {
 	

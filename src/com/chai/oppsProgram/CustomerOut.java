@@ -1,4 +1,4 @@
-package oppsProgram;
+package com.chai.oppsProgram;
 import java.util.Scanner;
 public class CustomerOut {
 

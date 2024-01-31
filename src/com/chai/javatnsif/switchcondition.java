@@ -1,4 +1,4 @@
-package javatnsif;
+package com.chai.javatnsif;
 
 import java.util.Scanner;
 
