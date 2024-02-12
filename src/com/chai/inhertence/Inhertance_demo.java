@@ -1,4 +1,4 @@
-package com.tnsif.inhertence;
+package com.chai.inhertence;
 class A{
 	int i;
 	void display() {

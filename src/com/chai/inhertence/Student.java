@@ -1,11 +1,11 @@
-package com.tnsif.inhertence;
+package com.chai.inhertence;
 
 public class Student  extends Citizen{
 
 	 private String srn,collegename;
 
 	public Student() {
-		super();
+		
 	}
 
 	public Student(String name, String addhar, String address ,String srn, String collegename) {

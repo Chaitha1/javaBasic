@@ -1,4 +1,4 @@
-package com.tnsif.inhertence;
+package com.chai.inhertence;
 
 public class Citizen {
 	
